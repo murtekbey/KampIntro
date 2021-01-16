@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{38E0B9A2-C769-4CCD-8FDE-551CD5042BB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maths", "Maths\Maths.csproj", "{ED13328A-3A6C-4753-88B2-371C8B115A45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{38E0B9A2-C769-4CCD-8FDE-551CD5042BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E0B9A2-C769-4CCD-8FDE-551CD5042BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E0B9A2-C769-4CCD-8FDE-551CD5042BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED13328A-3A6C-4753-88B2-371C8B115A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED13328A-3A6C-4753-88B2-371C8B115A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED13328A-3A6C-4753-88B2-371C8B115A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED13328A-3A6C-4753-88B2-371C8B115A45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

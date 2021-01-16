@@ -35,9 +35,14 @@ namespace Methods
 
             Console.WriteLine("------Methods-----");
             //instance - örnek
+            //encapsulation
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
             productManager.Add(product2);
+
+            productManager.Add2("Armut", "Yeşil Armut", 12, 10);
+            productManager.Add2("Elma", "Yeşil Elma", 9, 9);
+            productManager.Add2("Karpuz", "Diyarbakır karpuzu", 19, 8);
         }
     }
 }
