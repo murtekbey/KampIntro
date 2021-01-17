@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-Ref-Out", "Homework-Ref-Out\Homework-Ref-Out.csproj", "{9DB49340-3B89-4E2B-A2E5-A0B024501F24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{CEC0DB64-08A8-4080-8EB1-340D69A88F87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9DB49340-3B89-4E2B-A2E5-A0B024501F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DB49340-3B89-4E2B-A2E5-A0B024501F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DB49340-3B89-4E2B-A2E5-A0B024501F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC0DB64-08A8-4080-8EB1-340D69A88F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC0DB64-08A8-4080-8EB1-340D69A88F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC0DB64-08A8-4080-8EB1-340D69A88F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC0DB64-08A8-4080-8EB1-340D69A88F87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
