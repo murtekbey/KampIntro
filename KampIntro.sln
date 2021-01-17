@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-Ref-Out", "Homewor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{CEC0DB64-08A8-4080-8EB1-340D69A88F87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{6BC090F1-0EA7-4773-A53E-B7627D078094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{CEC0DB64-08A8-4080-8EB1-340D69A88F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEC0DB64-08A8-4080-8EB1-340D69A88F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEC0DB64-08A8-4080-8EB1-340D69A88F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC090F1-0EA7-4773-A53E-B7627D078094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC090F1-0EA7-4773-A53E-B7627D078094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC090F1-0EA7-4773-A53E-B7627D078094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC090F1-0EA7-4773-A53E-B7627D078094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
