@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maths", "Maths\Maths.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{0B1ACF63-737F-45AD-B769-D63CA1D50094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-Ref-Out", "Homework-Ref-Out\Homework-Ref-Out.csproj", "{9DB49340-3B89-4E2B-A2E5-A0B024501F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework-Ref-Out", "Homework-Ref-Out\Homework-Ref-Out.csproj", "{9DB49340-3B89-4E2B-A2E5-A0B024501F24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{CEC0DB64-08A8-4080-8EB1-340D69A88F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{CEC0DB64-08A8-4080-8EB1-340D69A88F87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{6BC090F1-0EA7-4773-A53E-B7627D078094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Params", "Params\Params.csproj", "{6BC090F1-0EA7-4773-A53E-B7627D078094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{6D05952B-40AF-438E-AF30-F075975D2018}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{6BC090F1-0EA7-4773-A53E-B7627D078094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BC090F1-0EA7-4773-A53E-B7627D078094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BC090F1-0EA7-4773-A53E-B7627D078094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D05952B-40AF-438E-AF30-F075975D2018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D05952B-40AF-438E-AF30-F075975D2018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D05952B-40AF-438E-AF30-F075975D2018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D05952B-40AF-438E-AF30-F075975D2018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
