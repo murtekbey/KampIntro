@@ -55,9 +55,5 @@ namespace Homework_5.Managers
             }
         }
 
-        public void Sell(IVerificationService verification, ICampaignService campaign)
-        {
-            
-        }
     }
 }
