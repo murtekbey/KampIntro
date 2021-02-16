@@ -45,7 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework-5", "Homework-5\Ho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework-5-Engin", "Homework-5-Engin\Homework-5-Engin.csproj", "{DBC4ACBF-2940-480F-A452-7A4046748ACE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{15E69376-CFAE-4EBC-B671-D67711A6B6A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\LinqProject.csproj", "{15E69376-CFAE-4EBC-B671-D67711A6B6A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{0E2AE9C8-7189-4FD6-A808-097C582B5140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{56FAF29D-B780-4B8C-AF87-886403146BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{086ECD92-3C3E-426D-99A1-702CF8FED1ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +147,18 @@ Global
 		{15E69376-CFAE-4EBC-B671-D67711A6B6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15E69376-CFAE-4EBC-B671-D67711A6B6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15E69376-CFAE-4EBC-B671-D67711A6B6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2AE9C8-7189-4FD6-A808-097C582B5140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2AE9C8-7189-4FD6-A808-097C582B5140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2AE9C8-7189-4FD6-A808-097C582B5140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2AE9C8-7189-4FD6-A808-097C582B5140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FAF29D-B780-4B8C-AF87-886403146BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FAF29D-B780-4B8C-AF87-886403146BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FAF29D-B780-4B8C-AF87-886403146BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FAF29D-B780-4B8C-AF87-886403146BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086ECD92-3C3E-426D-99A1-702CF8FED1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086ECD92-3C3E-426D-99A1-702CF8FED1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086ECD92-3C3E-426D-99A1-702CF8FED1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086ECD92-3C3E-426D-99A1-702CF8FED1ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
